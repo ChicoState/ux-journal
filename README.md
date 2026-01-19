@@ -1,1 +1,1 @@
-# ux-journal
+# ___'s UX Journal
